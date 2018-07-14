@@ -1,0 +1,15 @@
+{
+  "expo": {
+  	"name": "Classic Wedding Planner",
+    "sdkVersion": "27.0.0",
+    "version" : "1.0.1",
+    "slug":"classic-wedding-planner",
+    "icon":"./assets/logo.png",
+    "ios": {
+      "bundleIdentifier": "com.classicphotographers.customers"
+    },
+    "android": {
+      "package": "com.classicphotographers.customers"
+    }
+  }
+}
